@@ -1,3 +1,30 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "/"
+languageCode = "en-gb"
+title = "Breaker of Things"
+
+cononifyurls = true
+
+paginate = 3
+
+theme = "hugo-dusk"
+
+
+[author]
+name = "Breaker of Things"
+
+pygmentsStyle = "native"
+pygmentsCodeFences = true
+
+[params]
+github  = "LeoAdamek"
+twitter = "LeoAdamek"
+email   = "web-contact@breakerofthings.email"
+
+
+[params.colors]
+  # hugo-dusk colors
+  background = "#101010" # background color for the site
+  main = "#99cc66"
+  text = "#dbdbdb"
+  code-quote-bg = "#1D1F21" # background color for quotes and code blocks
+  copyright = "#404040" # copyright text color
