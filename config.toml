@@ -6,7 +6,7 @@ cononifyurls = true
 
 paginate = 3
 
-theme = "terminal"
+theme = "not-much"
 
 
 [author]
@@ -18,11 +18,18 @@ pygmentsCodeFences = true
 [params]
 github  = "LeoAdamek"
 email   = "web-contact-2025@breakerofthings.email"
+theme   = "dark"
+palette   = "catpuccin"
+copyright = "© {year}"
 
-[params.colors]
-  # hugo-dusk colors
-  background = "#101010" # background color for the site
-  main = "#99cc66"
-  text = "#dbdbdb"
-  code-quote-bg = "#1D1F21" # background color for quotes and code blocks
-  copyright = "#404040" # copyright text color
+[[menu.main]]
+  identifier = "posts"
+  name = "posts"
+  title = "blog"
+  url = "/posts"
+
+[[menu.main]]
+  identifier = "github"
+  name = "github"
+  title = "github"
+  url = "https://github.com/LeoAdamek"
