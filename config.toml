@@ -17,9 +17,7 @@ pygmentsCodeFences = true
 
 [params]
 github  = "LeoAdamek"
-twitter = "LeoAdamek"
-email   = "web-contact-2021@breakerofthings.email"
-
+email   = "web-contact-2025@breakerofthings.email"
 
 [params.colors]
   # hugo-dusk colors
