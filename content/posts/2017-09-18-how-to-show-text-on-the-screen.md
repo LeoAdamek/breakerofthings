@@ -18,7 +18,7 @@ A sample program can be found [here](https://github.com/LeoAdamek/how-to-show-te
 
 Here's the end result we're looking for:
 
-![Sample Output](./images/text-shown-on-the-screen.png)
+![Sample Output](/posts/images/text-shown-on-the-screen.png)
 
 How did we get to this point? It seems simple enough, we just need to push these characters to screen right?
 Not so fast. In the process of displaying this text on the screen, several things need to happen, all of which need to work in order to get the correct result.
