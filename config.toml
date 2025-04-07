@@ -4,8 +4,7 @@ title = "Breaker of Things"
 
 cononifyurls = true
 
-[pagination]
-pageSize = 10
+pagination.pageSize = 10
 
 theme = "terminal"
 
