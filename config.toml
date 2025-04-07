@@ -8,19 +8,16 @@ paginate = 3
 
 theme = "not-much"
 
-
-[author]
-name = "Breaker of Things"
-
 pygmentsStyle = "native"
 pygmentsCodeFences = true
 
 [params]
 github  = "LeoAdamek"
-email   = "web-contact-2025@breakerofthings.email"
+email   = "web-contact-2025.4@breakerofthings.email"
 theme   = "dark"
 palette   = "catpuccin"
 copyright = "© {year}"
+author.name = "Breaker of Things"
 
 [[menu.main]]
   identifier = "posts"
