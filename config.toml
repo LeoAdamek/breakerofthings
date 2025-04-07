@@ -4,7 +4,8 @@ title = "Breaker of Things"
 
 cononifyurls = true
 
-paginate = 3
+[pagination]
+pageSize = 10
 
 theme = "not-much"
 
