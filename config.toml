@@ -6,7 +6,7 @@ cononifyurls = true
 
 pagination.pageSize = 10
 
-theme = "terminal"
+theme = "not-much"
 
 pygmentsStyle = "native"
 pygmentsCodeFences = true
